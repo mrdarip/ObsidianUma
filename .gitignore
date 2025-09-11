@@ -1,1 +1,7 @@
 .trash/*
+
+source/node_modules
+
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
