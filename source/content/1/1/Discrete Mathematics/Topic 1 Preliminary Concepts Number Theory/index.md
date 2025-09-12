@@ -1,0 +1,73 @@
+## Numbers
+$$
+	\mathbb{N}: 1,2,3,4,...
+$$
+$$
+	\mathbb{Z}: -2,-1,0,1,2,...
+$$
+$$
+	\mathbb{Q}: \frac{1}{3},-\frac{3}{8},...
+$$
+## Theorem (Euclidean division)
+
+For $n,m∈N$, where $m>0$ there exist then $q,r∈N$, unique, such that
+$n=m⋅q+r$ and $0≤r<m$
+```
+n // m  = q
+n % m = r
+n = m * q + r //logically
+// r for reminder
+```
+
+### Divisibility
+m|n means that m divides n if there's q ∈ Z such that n = m*q
+
+```
+m // n = n
+m % n = 0
+```
+#### properties (or relations)
+- reflexive n|n (you can always divide a number by itself, eg 3|3: q = 1; 3= 3x1)
+- transitive: if n|m, and m|k then n|k
+	- prove that n | k:
+-  antisymetric, only for N:
+	- 
+
+### umm theorem [k]
+ Let n, m, k ∈ Z. then
+ 1. $1∣n$ and $(−1)∣n$
+2. $n∣n$ and $n∣(−n)$
+3. If $k∣n$ and $k∣m$, then $k∣(n+m)$, and $k∣(n−m)$
+4. If $n∣m$, then $n∣(k⋅m)$ for all $k∈Z$
+5. If $k∣n$ and $k∣m$, then $k∣(s⋅n+t⋅m)$, for all $s,t∈Z$
+
+### mersenne prime numbers
+prime numbers of the form $a^n-1$ 
+like 3, in which a = 2
+
+### Fundamental Theorem of arithmetic
+it says that any number  can be expressed as a product of powers of primes
+
+### GCD
+### coprimes
+### LCP
+ 
+
+---
+IF SOMEONE ASKS TO PROVE SOMETHING, AN EXAMPLE IS NOT VALID
+
+definition
+prove
+theorem
+????
+
+
+## Proof for Euclid theorem
+reduction ad absurdum or by contradiction
+we assume it is finite
+p_1,p_2,p_3,p_n
+q = 1 + p1 + p2 ... pn
+
+or q is a prime number ..... greater than Pn
+~~q is divisible by any other of thes previous prime numbers~~
+ is divisible by any other prime number greater than P1, ...., Pn
