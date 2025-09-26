@@ -21,3 +21,12 @@ calendar in [CV](https://informatica.cv.uma.es/calendar/view.php?view=upcoming&c
 	- practices :30%
 		- Students may keep the grades of the practices for the second call
 		- There's laboratory exam in the extraordinary call
+
+## Study guide
+
+https://sara.uma.es/ht/2025/ProgramasAsignaturas_Titulacion_5389_AsigUMA_55364.pdf
+
+## Past papers
+
+Some resolved exercises, published by UMA
+[Dispositivos Electrónicos: Exámenes Resueltos (2002-2009). Rafael Navas González. Editorial UMA (2015)](https://riuma.uma.es/xmlui/bitstream/handle/10630/10118/DispElec_Exa_%202002-2009.pdf?sequence=1&isAllowed=y)

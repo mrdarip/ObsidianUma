@@ -1,0 +1,1 @@
+https://www.ugr.es/~fjperez/textos/Practicas%20con%20wxMaxima.pdf
