@@ -4,3 +4,8 @@
 ## Study guide
 
 https://sara.uma.es/ht/2025/ProgramasAsignaturas_Titulacion_5389_AsigUMA_55366.pdf
+
+## Exams
+if an exercise asks to prove something, yo can ONLY se an example to prove it FALSE;
+to prove it true -> proof
+to prove it false -> example
